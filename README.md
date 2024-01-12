@@ -1,5 +1,5 @@
 ## Zadatak 1
-Treci i cetvrti blok koda. Prvi ostaje isti
+Drugi i treci blok koda. Prvi ostaje isti
 ```python
 # (a) kolicina informacije po simbolu
 I_x1 = -log2(p_X[0])
